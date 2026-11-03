@@ -9,7 +9,7 @@ Kumpulan sertifikat pembelajaran saya di bidang Data Analysis, Data Science, dan
 | Sertifikat | Tanggal | File |
 |---|---|---|
 | Python | 30 Okt 2026 | [Lihat](kaggle/kaggle-python.png) |
-| Pandas | - | [Lihat](kaggle/kaggle-pandas.png) |
+| Pandas | 3 Nov 2026 | [Lihat](kaggle/kaggle-pandas.png) |
 
 <a href="kaggle/kaggle-python.png"><img src="kaggle/kaggle-python.png" width="300"></a>
 
